@@ -1,0 +1,22 @@
+{
+  "name": "cooky-app",
+  "version": "0.0.0",
+  "description": "Cooky Web App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eorlundgraymane/Cooky-APP.git"
+  },
+  "keywords": [
+    "Cooky"
+  ],
+  "author": "Roshan K Menon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eorlundgraymane/Cooky-APP/issues"
+  },
+  "homepage": "https://github.com/Eorlundgraymane/Cooky-APP#readme"
+}
